@@ -1,5 +1,5 @@
 # Visualizing-Greenhouse-Gas-Activity-
-Interactive Tableau dashboard visualizing air pollution in Ontario
+Collaborated with a team of 4 to build an Interactive Tableau dashboard visualizing air pollution in Ontario
 
 Link to Dashboard: https://peluhapig.github.io/
 
