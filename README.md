@@ -8,11 +8,11 @@ This project explores greenhouse gas (GHG) emissions in Ontario, focusing on the
 GHG emissions significantly impact public health, the environment, and the economy. By visualizing this data, our project aims to empower Ontario's citizens, encourage industry accountability, and inform policymakers about areas needing intervention. Understanding these emissions is crucial for addressing climate change and its associated challenges.
 
 ## Technologies Used
-1 Tableau: For creating interactive dashboards with maps, charts, and other data visualization tools.
-2 Python: Used for data cleaning and web scraping (Requests library).
-3 Excel: For additional data cleaning and preparation.
-4 R (tidyverse): For data manipulation and analysis.
-5 Google Maps API: To source coordinates for facilities in the dataset.
+1. Tableau: For creating interactive dashboards with maps, charts, and other data visualization tools.
+2. Python: Used for data cleaning and web scraping (Requests library).
+3. Excel: For additional data cleaning and preparation.
+4. R (tidyverse): For data manipulation and analysis.
+5. Google Maps API: To source coordinates for facilities in the dataset.
 
 
 ## Dataset
