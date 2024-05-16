@@ -3,6 +3,11 @@ Overview: Collaborated with a team of 4 to build an Interactive Tableau dashboar
 
 Link to Dashboard: https://peluhapig.github.io/
 
+![image](https://github.com/khushil-sketch/Visualizing-Greenhouse-Gas-Activity-/assets/52947378/6c617b1c-cfc1-4447-ba28-bfeee03b6cab)
+
+![image](https://github.com/khushil-sketch/Visualizing-Greenhouse-Gas-Activity-/assets/52947378/cb231915-0f28-4e5b-b524-a6b118109da0)
+
+
 # Greenhouse Gas (GHG) Activity in Ontario: An Interactive Visualization
 
 This project explores greenhouse gas (GHG) emissions in Ontario, focusing on the primary sources and regions contributing to these emissions. The interactive visualization allows users to delve into the data to uncover trends, identify major polluters, and understand the spatial distribution of emissions across Ontario.
